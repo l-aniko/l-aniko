@@ -10,7 +10,7 @@ I work primarily with **Tableau, Power BI, Google Apps Script, Python, and SQL**
 
 My portfolio brings together selected projects across **data visualization, visual communication, and workflow automation**.
 
-### [View my portfolio →](https://l-aniko.github.io/)
+### [View my portfolio →](https://l-aniko.github.io/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 
 ## What I focus on
 
