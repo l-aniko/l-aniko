@@ -1,13 +1,28 @@
-Hi, I'm Anikó Lukácsovics!
+# Hi, I'm Anikó 👋
 
-I combine my passion for data science and graphic design to craft compelling data-driven solutions. Here's what I do:
+I'm a finance and analytics professional with a strong interest in **data visualization, visual storytelling, and process automation**.
 
-- I design and build data-driven products that address real-world challenges and deliver practical solutions.
-- I design and build data-driven products that address real-world challenges and deliver practical solutions.
-- My primary toolkit includes Python, Power BI, SQL, and Tableau, which I use to transform data into actionable insights.
-- I am committed to continuous learning and enjoy exploring new tools and techniques to stay at the forefront of the field.
-- I am passionate automating repetitive tasks with Python, making workflows more efficient and freeing up time for creative problem-solving.
+My work sits at the intersection of analytical thinking and visual communication — turning complex information into clear, useful, and thoughtfully designed solutions.
 
-You can find more about me here:
+I work primarily with **Tableau, Power BI, Google Apps Script, Python, and SQL**, combining data analysis with automation and design thinking.
 
-https://www.linkedin.com/in/anikolukacsovics/
+## 🌐 Portfolio
+
+My portfolio brings together selected projects across **data visualization, visual communication, and workflow automation**.
+
+### [View my portfolio →](https://l-aniko.github.io/)
+
+## What I focus on
+
+- **Data Visualization & Visual Storytelling** — transforming complex data into clear and engaging visual experiences
+- **Process Automation** — identifying repetitive workflows and building practical solutions to make them more efficient
+- **Analytics** — connecting business context, data, and visual communication to support better decisions
+- **Design Thinking** — bringing a visual design perspective into analytical work
+
+## Tools
+
+**Tableau · Power BI · Google Apps Script · Python · SQL · Excel · Adobe InDesign**
+
+## Connect
+
+[LinkedIn →](https://www.linkedin.com/in/anikolukacsovics/)
